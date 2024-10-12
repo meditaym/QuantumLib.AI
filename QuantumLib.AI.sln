@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumLib.AI", "QuantumLib.AI\QuantumLib.AI.csproj", "{017616D7-1BFB-42CC-A24B-24B58C36E5C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumLib.AI.Test", "QuantumLib.AI.Test\QuantumLib.AI.Test.csproj", "{1E058299-5A99-44F1-AD70-2AB2AA58BAAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{017616D7-1BFB-42CC-A24B-24B58C36E5C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017616D7-1BFB-42CC-A24B-24B58C36E5C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017616D7-1BFB-42CC-A24B-24B58C36E5C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017616D7-1BFB-42CC-A24B-24B58C36E5C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E058299-5A99-44F1-AD70-2AB2AA58BAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E058299-5A99-44F1-AD70-2AB2AA58BAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E058299-5A99-44F1-AD70-2AB2AA58BAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E058299-5A99-44F1-AD70-2AB2AA58BAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DA5EEFA-AFE0-4DB7-9EB5-AF8B10712EE1}
+	EndGlobalSection
+EndGlobal
